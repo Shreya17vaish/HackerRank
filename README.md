@@ -1,0 +1,2 @@
+# HackerRank
+Sql(Basic)Solution
